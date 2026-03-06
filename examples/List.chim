@@ -1,0 +1,8 @@
+Li(intList) I(1, 2, 3, 4).
+Li(strList) S("Hello", "world").
+Li(charList) C('a', 'b', 'c', 'd').
+Li(floatList) F(3_14, 3_15, 3_16).
+
+Pr intList(0).
+// intList[0]
+// Print "1"
