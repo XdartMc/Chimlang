@@ -14,6 +14,9 @@ Chim is an esoteric programming language where every keyword is a chemical eleme
 - `gcc` in PATH ([MinGW-w64](https://www.mingw-w64.org/) on Windows, `gcc` on Linux/Mac)
 - `chimc.exe` [click to download](https://github.com/user-attachments/files/25788742/Chimlang_v0.3.zip)
 
+### Recommended
+for Notepad++ you can download syntax file (here)[]
+
 ---
 
 ## 🚀 Usage
