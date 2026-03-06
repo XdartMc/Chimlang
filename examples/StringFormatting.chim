@@ -1,0 +1,5 @@
+S(password) "12345".
+Pr "Your password: {password}".
+
+// Print "Your password: 12345"
+// "{ <var> }"
