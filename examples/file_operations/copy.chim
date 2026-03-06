@@ -1,0 +1,2 @@
+// Fl("FILENAME") copy "COPIED_FILENAME".
+Fl("file.txt") copy "copied.txt".
