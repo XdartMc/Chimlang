@@ -1,0 +1,5 @@
+I(num) 5.
+Co(num=5) (Pr "Num = 5").
+
+Li(myList) I(1, 2, 3).
+Co(myList(1)=2) (Pr "myList[1] = 2").
