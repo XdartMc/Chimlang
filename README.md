@@ -209,48 +209,6 @@ Exits with code `0`. Named after Einsteinium, because only Einstein would design
 
 ---
 
-## 🗂️ Project Structure
-
-```
-chim/
-├── chim.c           # Entry point — reads .chim, calls gcc
-├── chim_lexer.h     # Lexer: source text → tokens
-├── chim_codegen.h   # Code buffers, variable type table
-├── chim_parser.h    # Parser + C code generator
-├── Makefile
-└── examples/
-    ├── hello.chim
-    ├── vars.chim
-    ├── condition.chim
-    ├── functions.chim
-    ├── files.chim
-    └── all_fixed.chim
-```
-
----
-
-## 🔬 How it works
-
-```
-your_program.chim
-       │
-       ▼
-  [chimc lexer]        tokenizes source into chemical tokens
-       │
-       ▼
-  [chimc parser]       walks token stream, emits C code
-       │
-       ▼
-  your_program.c       glorious generated C
-       │
-       ▼
-     [gcc]
-       │
-       ▼
-  your_program.exe     actually runs
-```
-
----
 
 ## ⚠️ Known limitations
 
