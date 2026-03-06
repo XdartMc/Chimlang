@@ -1,0 +1,4 @@
+S(name) In "What's your name? ".
+Pr "Hello, {name}".
+
+// In - INput
