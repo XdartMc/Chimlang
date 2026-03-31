@@ -1,4 +1,4 @@
-# ⚗️ Chim Programming Language
+# Chim Programming Language
 
 > *"Why use normal keywords when you can use the periodic table?"*
 
@@ -8,7 +8,7 @@ Chim is an esoteric programming language where every keyword is a chemical eleme
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Requirements
 - `gcc` in PATH ([MinGW-w64](https://www.mingw-w64.org/) on Windows, `gcc` on Linux/Mac)
@@ -19,7 +19,7 @@ for Notepad++ you can download syntax file [here](https://github.com/XdartMc/Chi
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ```bash
 ./chimc input.chim output
@@ -32,7 +32,7 @@ This will:
 
 ---
 
-## 🧪 Hello World
+## Hello World
 
 ```
 Pr "Hello, World!".
@@ -41,7 +41,7 @@ Es.
 
 ---
 
-## 📖 Language Reference
+## Language Reference
 
 ### Statement terminator
 Every statement ends with `.` (dot).
