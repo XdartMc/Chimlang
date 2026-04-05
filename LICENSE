@@ -1,21 +1,89 @@
-MIT License
+                                                        XDART GENERAL LICENSE | Version 1
 
 Copyright (c) 2026 Xdart
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Definitions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Work" means the original software, libraries, or code published by the Author under this License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Derivative Work" means any software that uses, links to, modifies, or incorporates the Work in whole or in part.
+
+"Source Code" means the preferred form of the Work for making modifications.
+
+"Non-Commercial Use" means usage of the Work where no direct or indirect revenue is generated, including but not limited to:
+
+* free distribution,
+* open-source projects,
+* personal or educational use.
+
+"Commercial Use" means any use of the Work that involves:
+
+* selling software,
+* charging for access,
+* offering paid services,
+* monetization via ads, subscriptions, or data,
+* internal business usage that contributes to revenue generation.
+
+"Network Use" means providing functionality of the Work or a Derivative Work over a network (e.g., SaaS, APIs, web services).
+
+2. Grant of Rights
+
+Permission is hereby granted to use, copy, modify, and distribute the Work, subject to the conditions below.
+
+3. Non-Commercial Use (Strong Copyleft)
+
+If you use or distribute a Derivative Work under Non-Commercial Use:
+
+* You MUST provide full Source Code of the Derivative Work.
+* The Derivative Work MUST be licensed under this License (XGL).
+* You MUST include this License in all copies.
+
+4. Network Use Clause (SaaS Protection)
+
+If you make the Work or a Derivative Work available via Network Use:
+
+* You MUST provide full Source Code to all users interacting with the software over the network.
+* This requirement applies regardless of whether the use is Commercial or Non-Commercial.
+
+5. Commercial Use
+
+If you use the Work under Commercial Use:
+
+* You MAY distribute Derivative Works under any license, including proprietary licenses.
+
+* You MUST provide clear attribution to the Author in:
+
+  * documentation,
+  * user interface (if applicable),
+  * or legal notices.
+
+* You MUST include:
+
+  * a link to the original Work,
+  * a notice of any modifications made.
+
+6. Restrictions
+
+* You MAY NOT remove or alter copyright notices.
+* You MAY NOT claim authorship of the original Work.
+* You MAY NOT impose legal terms that override this License.
+
+7. Intellectual Property
+
+All rights not expressly granted remain with the Author. This License grants usage rights only and does not transfer ownership.
+
+8. Disclaimer of Warranty
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE WORK.
+
+10. Termination
+
+Violation of this License automatically terminates the rights granted under it.
+
+11. Acceptance
+
+By using, copying, modifying, or distributing the Work, you agree to this License.
